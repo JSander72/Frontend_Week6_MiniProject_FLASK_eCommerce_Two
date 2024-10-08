@@ -1,0 +1,13 @@
+{
+  "sqltools.connections": [
+    {
+      "name": "MySQL eComm",
+      "driver": "MySQL",
+      "server": "localhost",
+      "port": 3306,
+      "database": "eComm",
+      "username": "root",
+      "password": "12wsxdr56"
+    }
+  ]
+}
